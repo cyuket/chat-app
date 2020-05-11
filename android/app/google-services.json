@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786290662420",
+    "firebase_url": "https://chat-app-f944f.firebaseio.com",
+    "project_id": "chat-app-f944f",
+    "storage_bucket": "chat-app-f944f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786290662420:android:6fed4e5e56e8165def1b01",
+        "android_client_info": {
+          "package_name": "com.cyuket.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786290662420-qlshfahpl0p5ag8lkp4c4fobd4ci5kpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5QIGdsDKSJESiKJvVEBxi5-PJXb5wskA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786290662420-qlshfahpl0p5ag8lkp4c4fobd4ci5kpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
